@@ -15,7 +15,7 @@ URL Rewrite | Yes | No
 URL Redirect | Yes | No
 URL-path based routing | Yes | No
 Custom Domain | Yes | Yes (but not to root domain)
-Health Probe | Yes (Get,Head) | Yes (Get)
+Health Probe | Yes (Get, Head) | Yes (Get)
 Cookie-based affinity | Yes | No
 Host multiple applications | Yes | No
 Requires internet facing service (Public IP) | Yes | Yes
